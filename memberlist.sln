@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mainIM", "mainIM\mainIM.vcx
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "agregasi", "agregasi\agregasi.vcxproj", "{F96A1FF5-D691-49A8-926C-411741DED201}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "asosiasi", "asosiasi\asosiasi.vcxproj", "{4B8B42E4-F583-4408-B9A3-381940927DD5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{F96A1FF5-D691-49A8-926C-411741DED201}.Release|x64.Build.0 = Release|x64
 		{F96A1FF5-D691-49A8-926C-411741DED201}.Release|x86.ActiveCfg = Release|Win32
 		{F96A1FF5-D691-49A8-926C-411741DED201}.Release|x86.Build.0 = Release|Win32
+		{4B8B42E4-F583-4408-B9A3-381940927DD5}.Debug|x64.ActiveCfg = Debug|x64
+		{4B8B42E4-F583-4408-B9A3-381940927DD5}.Debug|x64.Build.0 = Debug|x64
+		{4B8B42E4-F583-4408-B9A3-381940927DD5}.Debug|x86.ActiveCfg = Debug|Win32
+		{4B8B42E4-F583-4408-B9A3-381940927DD5}.Debug|x86.Build.0 = Debug|Win32
+		{4B8B42E4-F583-4408-B9A3-381940927DD5}.Release|x64.ActiveCfg = Release|x64
+		{4B8B42E4-F583-4408-B9A3-381940927DD5}.Release|x64.Build.0 = Release|x64
+		{4B8B42E4-F583-4408-B9A3-381940927DD5}.Release|x86.ActiveCfg = Release|Win32
+		{4B8B42E4-F583-4408-B9A3-381940927DD5}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
